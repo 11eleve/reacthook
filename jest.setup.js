@@ -1,5 +1,3 @@
-// mock screen full events
-// https://github.com/sindresorhus/screenfull/blob/main/index.js
 const screenfullMethods = [
   'requestFullscreen',
   'exitFullscreen',
